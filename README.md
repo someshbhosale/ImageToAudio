@@ -9,8 +9,16 @@ This project allows you to turn images into audio stories. It employs image-to-t
    git clone https://github.com/someshbhosale/ImageToAudio.git
    cd ImageToAudio
    ```
+2. **Create Virtual Environment**:
+   ```sh
+   python -m venv venv
+   ```
+3. **Activate Virtual Environment**:
+   ```sh
+   venv\Scripts\activate
+   ```
 
-2. **Install Dependencies**:
+4. **Install Dependencies**:
    ```sh
    pip install -r requirements.txt
    ```
